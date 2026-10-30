@@ -1,8 +1,8 @@
-# Unidos Solidários — Backend
+# Unidos Solidários — Thrift Store App (Backend API)
 
-REST API for **Unidos Solidários**, a project supporting the work of a nonprofit organization in Porto Alegre, Brazil.
+Backend API of **Unidos Solidários**, an academic project developed as part of the Systems Analysis and Development degree at **Unisinos**.
 
-The API provides authentication and data operations for the thrift-store clothing catalog and user interests.
+The project consists of an app for a thrift store connected to the Unidos Solidários initiative. This repository contains the REST API and data layer that support the frontend application.
 
 ## Features
 
@@ -68,8 +68,8 @@ Some routes require authentication and/or specific permissions.
 
 ## Related Repository
 
-The frontend application is maintained separately: [unidos-solidarios-front](https://github.com/gomezllari/unidos-solidarios-front).
+The frontend application is part of the same academic project: [unidos-solidarios-front](https://github.com/gomezllari/unidos-solidarios-front).
 
 ---
 
-This project was developed as part of an academic and social-impact initiative.
+**Academic project:** developed during the Systems Analysis and Development degree at Unisinos.
